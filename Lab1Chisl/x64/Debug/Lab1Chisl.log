@@ -1,0 +1,12 @@
+﻿  Gaus.cpp
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\Gaus.cpp(95,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\Gaus.cpp(97,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\Gaus.cpp(138,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\Gaus.cpp(140,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\main.cpp(16,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\main.cpp(17,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\main.cpp(18,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Бобан\Desktop\Lab1Chisl\Lab1Chisl\main.cpp(20,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab1Chisl.vcxproj -> C:\Users\Бобан\Desktop\Lab1Chisl\x64\Debug\Lab1Chisl.exe
